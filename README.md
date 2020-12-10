@@ -1,15 +1,2 @@
-# umi project
-
-## Getting Started
-
-Install dependencies,
-
-```bash
-$ yarn
-```
-
-Start the dev server,
-
-```bash
-$ yarn start
-```
+# WeJudge 3.0 气球机
+## Electron 版
